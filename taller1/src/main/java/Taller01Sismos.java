@@ -21,7 +21,7 @@ public class Taller01Sismos {
     
 
     public static void main(String[] args) {
-        double[] sismos = new double[69];
+        double[] sismos = new double[70];
         
         int rep=0;
         
