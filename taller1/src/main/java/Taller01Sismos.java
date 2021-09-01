@@ -30,7 +30,7 @@ public class Taller01Sismos {
             switch (selecionOpciones()) {
             case 1:
                 generarSismos(sismos);
-                mostrarSismos(sismos);
+                
                 break;
             case 2:
                 mayorSismo(sismos);
